@@ -1,0 +1,1 @@
+# Dictionaries are used to store data value in key:value pairs
