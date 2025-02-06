@@ -19,7 +19,7 @@ collection2.add((1,2,3,4,5)) #Tuple
 print(collection2)
 collection2.remove(1) #remove value
 print(collection2)
-collection2.pop() #Removes a random value
+collection2.pop() #Generate pop() random value
 print(collection2)
 collection2.clear() #Emties all values
 print(collection2)
